@@ -1,0 +1,33 @@
+
+body {
+    padding: 0;
+    margin: 0 0 0 0;
+}
+.logo {
+    
+    
+    padding: 5mm;
+}
+
+.nav-bar {
+    text-decoration: none;
+    display: inline;
+    
+}
+
+.nav-bar li {
+    display: inline;
+    border-right: 1px;
+    padding-right: 20mm;
+    border-right: 12px;
+    border-right-color: chocolate;
+    border-style: solid;
+    
+    
+
+}
+.banner-container {
+    max-width: 100%;
+    height: 50mm;
+    background-color: white;
+}
