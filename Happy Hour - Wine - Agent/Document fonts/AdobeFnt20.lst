@@ -1,0 +1,81 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChronicaPro-Black
+FamilyName:Chronica Pro
+StyleName:Black
+MenuName:Chronica Pro Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Chronica Pro Black
+WritingScript:Roman
+OutlineFileName:/Users/samueltrapskin/Desktop/projects/Car_website/Happy Hour - Wine - Agent/Document fonts/ChronicaPro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135760
+FileModTime:454182188
+NameArray:0,Mac,4,Chronica Pro Black
+NameArray:0,Win,1,Chronica Pro Black
+NameArray:0,Win,16,Chronica Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChronicaProRegular
+FamilyName:Chronica Pro
+StyleName:Regular
+MenuName:Chronica Pro Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chronica Pro Regular
+WritingScript:Roman
+OutlineFileName:/Users/samueltrapskin/Desktop/projects/Car_website/Happy Hour - Wine - Agent/Document fonts/ChronicaPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135096
+FileModTime:454182188
+NameArray:0,Mac,4,Chronica Pro Regular
+NameArray:0,Win,1,Chronica Pro Regular
+NameArray:0,Win,16,Chronica Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChronicaPro-Book
+FamilyName:Chronica Pro
+StyleName:Book
+MenuName:Chronica Pro Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chronica Pro Book
+WritingScript:Roman
+OutlineFileName:/Users/samueltrapskin/Desktop/projects/Car_website/Happy Hour - Wine - Agent/Document fonts/ChronicaPro-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133880
+FileModTime:454182188
+NameArray:0,Mac,4,Chronica Pro Book
+NameArray:0,Win,1,Chronica Pro Book
+NameArray:0,Win,16,Chronica Pro
+%EndFont
+
