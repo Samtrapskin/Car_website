@@ -80,7 +80,7 @@ option {
     
 .feature-car {
     margin-top: 10mm;
-    height: 200mm;
+    height: 126mm;
     max-width: 100%;
    
 }
@@ -94,9 +94,10 @@ option {
 
 .summary-features {
     position: static;
-    width: 100%;
-    background-color: pink;
-    height: 31mm;
+    width: 56%;
+    height: 41mm;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
 }
 
 
@@ -104,6 +105,14 @@ option {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
 }
+
+.sub-heading {
+
+    color: #555;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
 
 .feature-price {
     font-size: 44px;
@@ -113,28 +122,28 @@ option {
 }
 
 .purchase-price {
-    float:left;
-     width: 43mm;
-     margin: 0px;
-     height: 23mm;
-     padding: 5mm 0mm 2mm 47mm;
- }
+    float: left;
+    width: 43mm;
+    margin: 0px;
+    height: 23mm;
+    padding: 5mm 0mm 2mm 28mm;
+}
 
  .lease-offers {
-    float:left;
-     width: 50mm;
-     margin: 0px;
-     height: 23mm;
-     padding: 5mm 0mm 2mm 24mm;
- }
+    float: left;
+    width: 50mm;
+    margin: 0px;
+    height: 23mm;
+    padding: 5mm 0mm 2mm 11mm;
+}
 
 
  .pricing {
-    float:left;
-     width: 102mm;
-     margin: 0px;
-     height: 23mm;
-     padding: 5mm 20mm 2mm 24mm;
- }
-
-
+    float: right;
+    /* width: 102mm; */
+    margin: 0px;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    height: 23mm;
+    padding: 1mm 19mm 0mm 2mm;
+}
