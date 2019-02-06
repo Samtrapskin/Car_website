@@ -47,8 +47,11 @@ ul {
     /* max-width: 100%; */
 
 }
-
+.section-two {
+    border-bottom: 1px solid gray;
+}
 .sub-heading {
+    font-size: 13px;
     color: #555;
     margin: 20px 20px 0 38px;
     font-family: 'Roboto', sans-serif;
@@ -61,33 +64,37 @@ ul {
 .epa-heading {
     margin-left: 40px;
     margin-top: 17px;
+    margin-bottom: 6px;
+    font-size: 13px;
+    color: #555;
+    line-height: 1;
 }
 
 .price {
-
     font-size: 33px;
     font-family: 'Roboto', sans-serif;
     width: 12mm;
-    margin-left:31px
+    margin-left: 35px;
+    color: black;
 }
-
-.lease {
+.seating {
     font-size: 33px;
     font-family: 'Roboto', sans-serif;
-    line-height: 1;
-    color: #555;
-    margin-left: 33px;
-
+    width: 12mm;
+    margin-left: 24px;
+    color: black;
 }
-
+.lease {
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+    margin-left: 33px;
+}
 .mpg-heading {
     color: #555;
-    margin-left: 28px;
-    line-height: .2;
-    font-family: 'Roboto', sans-serif;
-
+    margin-left: 52px;
+    font-size: 13px;
 }
-
 .pricing {
     color: #555;
 
