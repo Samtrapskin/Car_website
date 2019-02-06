@@ -16,9 +16,7 @@ p {
     padding: 2.8mm 0mm 2mm 19mm;
 }
 
-/* .sam {
-    margin-bottom: 5px;
-} */
+
 
 .nav-bar {
     height: 24mm;
@@ -47,6 +45,9 @@ ul {
     /* max-width: 100%; */
 
 }
+
+/* *** SECTION TWO *** */
+
 .section-two {
     border-bottom: 1px solid gray;
 }
@@ -97,15 +98,32 @@ ul {
 }
 .pricing {
     color: #555;
-
     margin: 20px;
     font-family: 'Roboto', sans-serif;
-    /* width: 102mm; */
     font-size: 12px;
     height: 23mm;
-
-
 }
+
+/* *** END SECTION TWO *** */
+
+.section-3 {
+    text-align: center;
+    width: 500px;
+}
+.section-three-headline {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30pt;
+    padding-top: 30px;
+}
+
+.sec-3-text-body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 15pt;
+    
+}
+
 
 .section-four,
 .section-6 {
