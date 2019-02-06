@@ -50,12 +50,17 @@ ul {
 
 .sub-heading {
     color: #555;
-    margin: 20px 20px 0 20px;
+    margin: 20px 20px 0 38px;
     font-family: 'Roboto', sans-serif;
+}
+
+.verticle-line {
+    border-left: 1px solid gray;
 }
 
 .epa-heading {
     margin-left: 40px;
+    margin-top: 17px;
 }
 
 .price {
@@ -63,20 +68,21 @@ ul {
     font-size: 33px;
     font-family: 'Roboto', sans-serif;
     width: 12mm;
+    margin-left:31px
 }
 
 .lease {
     font-size: 33px;
     font-family: 'Roboto', sans-serif;
-    margin-left: 186px;
     line-height: 1;
     color: #555;
+    margin-left: 33px;
 
 }
 
 .mpg-heading {
     color: #555;
-    margin-left: 213px;
+    margin-left: 28px;
     line-height: .2;
     font-family: 'Roboto', sans-serif;
 
