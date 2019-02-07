@@ -7,7 +7,9 @@ p {
     padding: 0;
     margin: 0;
 }
-
+/* .container-fluid {
+    padding: 0 3%;
+} */
 /* ***  NAV BAR *** */
 
 .logo {
@@ -106,6 +108,8 @@ ul {
 
 /* *** END SECTION TWO *** */
 
+/* *** SECTION THREEE *** */
+
 .section-3 {
     text-align: center;
     width: 500px;
@@ -124,8 +128,31 @@ ul {
     
 }
 
+/* *** END SECTION THREEE *** */
 
-.section-four,
+/* *** SECTION FOUR *** */
+
+
+#four {
+    background-color: #F7F7F7; 
+}
+
+.sec-4-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50pt;
+    text-align: center;
+    padding: 20px 0;
+    font-weight: 100;
+}
+
+/* *** END SECTION FOUR *** */
+
+/* *** SECTION FIVE *** */
+
+
+
+
+/* *** END SSECTION FIVE *** */
 .section-6 {
     margin-top: 10mm;
     height: 126mm;
