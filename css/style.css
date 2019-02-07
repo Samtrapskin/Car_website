@@ -153,14 +153,32 @@ ul {
 
 
 /* *** END SSECTION FIVE *** */
-.section-6 {
-    margin-top: 10mm;
-    height: 126mm;
-    max-width: 100%;
+
+/* *** SECTION SIX *** */
+
+#six {
+   background-color: black;
 }
 
-.section-5 {
-    margin-top: 10mm;
-    height: 126mm;
-    max-width: 100%;
+.section-six-headline {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255,255,255);
+    text-align: center;
+    font-size: 50pt;
+    padding-top: 30px;
+}
+
+.sec-6-text-body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 15pt;
+    color: rgb(255,255,255);
+    padding-bottom: 12px;
+}
+
+.btn-primary {
+    width: 350px;
+    height: 75px;
+    margin-bottom: 50px;
+    margin-top: 50px 
 }
